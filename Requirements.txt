@@ -1,0 +1,21 @@
+# Core Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+keras
+
+# Image Processing
+opencv-python
+Pillow
+
+# Hyperparameter Tuning
+keras-tuner
+
+# Utilities
+scikit-learn
